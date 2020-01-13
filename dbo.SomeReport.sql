@@ -6,7 +6,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
-
+   
 -- =============================================
 -- Author:		<Nilam Keval>
 -- Create date: <10/16/2015>    
